@@ -1,0 +1,3666 @@
+MIME-Version: 1.0
+X-Document-Type: Worksheet
+Content-Type: multipart/related; boundary="----=_NextPart_01D39709.8DC98350"
+
+
+
+------=_NextPart_01D39709.8DC98350
+Content-Location: file:///C:/2184AD31/file3217.htm
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="utf-8"
+
+<html xmlns:x=3D"urn:schemas-microsoft-com:office:excel"
+xmlns=3D"http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta name=3D"Excel Workbook Frameset">
+<meta http-equiv=3DContent-Type content=3D"text/html; charset=3Dutf-8">
+<meta name=3DProgId content=3DExcel.Sheet>
+<meta name=3DGenerator content=3D"Microsoft Excel 15">
+<![if !supportTabStrip]>
+<link id=3D"shLink" href=3D"file3217.fld/sheet001.htm">
+<link id=3D"shLink" href=3D"file3217.fld/sheet002.htm">
+<link id=3D"shLink" href=3D"file3217.fld/sheet003.htm">
+<link id=3D"shLink" href=3D"file3217.fld/sheet004.htm">
+<link id=3D"shLink">
+
+<script language=3D"JavaScript">
+<!--
+ var g_iIEVer=3D0;
+=20
+ var c_lTabs=3D4;
+
+ var c_rgszSh=3Dnew Array(c_lTabs);
+ c_rgszSh[0] =3D "A、今日目标完成情况";
+ c_rgszSh[1] =3D "B、总结具体内容";
+ c_rgszSh[2] =3D "C、个人小结";
+ c_rgszSh[3] =3D "D、明日计划目标";
+
+ var c_rgszClr=3Dnew Array(8);
+ c_rgszClr[0]=3D"window";
+ c_rgszClr[1]=3D"buttonface";
+ c_rgszClr[2]=3D"windowframe";
+ c_rgszClr[3]=3D"windowtext";
+ c_rgszClr[4]=3D"threedlightshadow";
+ c_rgszClr[5]=3D"threedhighlight";
+ c_rgszClr[6]=3D"threeddarkshadow";
+ c_rgszClr[7]=3D"threedshadow";
+
+ var g_iShCur;
+ var g_rglTabX=3Dnew Array(c_lTabs);
+
+function fnBuildFrameset()
+{
+ var szHTML=3D"<frameset rows=3D\"*,18\" border=3D0 width=3D0 frameborder=
+=3Dno framespacing=3D0>"+
+  "<frame src=3D\""+document.all.item("shLink")[3].href+"\" name=3D\"frSheet=
+\" noresize>"+
+  "<frameset cols=3D\"54,*\" border=3D0 width=3D0 frameborder=3Dno framespac=
+ing=3D0>"+
+  "<frame src=3D\"\" name=3D\"frScroll\" marginwidth=3D0 marginheight=3D0 sc=
+rolling=3Dno>"+
+  "<frame src=3D\"\" name=3D\"frTabs\" marginwidth=3D0 marginheight=3D0 scro=
+lling=3Dno>"+
+  "</frameset></frameset><plaintext>";
+
+document.open("text/html","replace");
+document.write(szHTML);
+document.close();
+
+ fnBuildTabStrip();
+}
+
+function fnBuildTabStrip()
+{
+ var szHTML=3D
+  "<html><head><style>.clScroll {font:8pt Courier New;color:"+c_rgszClr[2]+"=
+;cursor:default;line-height:10pt;}"+
+  ".clScroll2 {font:10pt Arial;color:"+c_rgszClr[2]+";cursor:default;line-he=
+ight:11pt;}</style></head>"+
+  "<body onclick=3D\"event.returnValue=3Dfalse;\" ondragstart=3D\"event.retu=
+rnValue=3Dfalse;\" onselectstart=3D\"event.returnValue=3Dfalse;\" bgcolor=
+=3D"+c_rgszClr[4]+" topmargin=3D0 leftmargin=3D0><table cellpadding=3D0 cell=
+spacing=3D0 width=3D100%>"+
+  "<tr><td colspan=3D6 height=3D1 bgcolor=3D"+c_rgszClr[2]+"></td></tr>"+
+  "<tr><td style=3D\"font:1pt\">&nbsp;<td>"+
+  "<td valign=3Dtop id=3DtdScroll class=3D\"clScroll\" onclick=3D\"parent.fn=
+FastScrollTabs(0);\" onmouseover=3D\"parent.fnMouseOverScroll(0);\" onmouseo=
+ut=3D\"parent.fnMouseOutScroll(0);\"><a>&#171;</a></td>"+
+  "<td valign=3Dtop id=3DtdScroll class=3D\"clScroll2\" onclick=3D\"parent.f=
+nScrollTabs(0);\" ondblclick=3D\"parent.fnScrollTabs(0);\" onmouseover=3D\"p=
+arent.fnMouseOverScroll(1);\" onmouseout=3D\"parent.fnMouseOutScroll(1);\"><=
+a>&lt</a></td>"+
+  "<td valign=3Dtop id=3DtdScroll class=3D\"clScroll2\" onclick=3D\"parent.f=
+nScrollTabs(1);\" ondblclick=3D\"parent.fnScrollTabs(1);\" onmouseover=3D\"p=
+arent.fnMouseOverScroll(2);\" onmouseout=3D\"parent.fnMouseOutScroll(2);\"><=
+a>&gt</a></td>"+
+  "<td valign=3Dtop id=3DtdScroll class=3D\"clScroll\" onclick=3D\"parent.fn=
+FastScrollTabs(1);\" onmouseover=3D\"parent.fnMouseOverScroll(3);\" onmouseo=
+ut=3D\"parent.fnMouseOutScroll(3);\"><a>&#187;</a></td>"+
+  "<td style=3D\"font:1pt\">&nbsp;<td></tr></table></body></html>";
+
+frames['frScroll'].document.open("text/html","replace");
+frames['frScroll'].document.write(szHTML);
+frames['frScroll'].document.close();
+
+ szHTML =3D
+  "<html><head>"+
+  "<style>A:link,A:visited,A:active {text-decoration:none;"+"color:"+c_rgszC=
+lr[3]+";}"+
+  ".clTab {cursor:hand;background:"+c_rgszClr[1]+";font:8pt 宋体;padding-l=
+eft:3px;padding-right:3px;text-align:center;}"+
+  ".clBorder {background:"+c_rgszClr[2]+";font:1pt;}"+
+  "</style></head><body onload=3D\"parent.fnInit();\" onselectstart=3D\"even=
+t.returnValue=3Dfalse;\" ondragstart=3D\"event.returnValue=3Dfalse;\" bgcolo=
+r=3D"+c_rgszClr[4]+
+  " topmargin=3D0 leftmargin=3D0><table id=3DtbTabs cellpadding=3D0 cellspac=
+ing=3D0>";
+
+ var iCellCount=3D(c_lTabs+1)*2;
+
+ var i;
+ for (i=3D0;i<iCellCount;i+=3D2)
+  szHTML+=3D"<col width=3D1><col>";
+
+ var iRow;
+ for (iRow=3D0;iRow<6;iRow++) {
+
+  szHTML+=3D"<tr>";
+
+  if (iRow=3D=3D5)
+   szHTML+=3D"<td colspan=3D"+iCellCount+"></td>";
+  else {
+   if (iRow=3D=3D0) {
+    for(i=3D0;i<iCellCount;i++)
+     szHTML+=3D"<td height=3D1 class=3D\"clBorder\"></td>";
+   } else if (iRow=3D=3D1) {
+    for(i=3D0;i<c_lTabs;i++) {
+     szHTML+=3D"<td height=3D1 nowrap class=3D\"clBorder\">&nbsp;</td>";
+     szHTML+=3D
+      "<td id=3DtdTab height=3D1 nowrap class=3D\"clTab\" onmouseover=3D\"pa=
+rent.fnMouseOverTab("+i+");\" onmouseout=3D\"parent.fnMouseOutTab("+i+");\">=
+"+
+      "<a href=3D\""+document.all.item("shLink")[i].href+"\" target=3D\"frSh=
+eet\" id=3DaTab>&nbsp;"+c_rgszSh[i]+"&nbsp;</a></td>";
+    }
+    szHTML+=3D"<td id=3DtdTab height=3D1 nowrap class=3D\"clBorder\"><a id=
+=3DaTab>&nbsp;</a></td><td width=3D100%></td>";
+   } else if (iRow=3D=3D2) {
+    for (i=3D0;i<c_lTabs;i++)
+     szHTML+=3D"<td height=3D1></td><td height=3D1 class=3D\"clBorder\"></td=
+>";
+    szHTML+=3D"<td height=3D1></td><td height=3D1></td>";
+   } else if (iRow=3D=3D3) {
+    for (i=3D0;i<iCellCount;i++)
+     szHTML+=3D"<td height=3D1></td>";
+   } else if (iRow=3D=3D4) {
+    for (i=3D0;i<c_lTabs;i++)
+     szHTML+=3D"<td height=3D1 width=3D1></td><td height=3D1></td>";
+    szHTML+=3D"<td height=3D1 width=3D1></td><td></td>";
+   }
+  }
+  szHTML+=3D"</tr>";
+ }
+
+ szHTML+=3D"</table></body></html>";
+
+frames['frTabs'].document.open("text/html","replace");
+frames['frTabs'].document.charset=3Ddocument.charset;
+frames['frTabs'].document. write(szHTML);
+frames['frTabs'].document.close();
+
+}
+
+function fnInit()
+{
+ if (parent.window.g_iIEVer>=3D4) {
+  if (document.readyState=3D=3D"complete"
+   && frames['frTabs'].document.readyState=3D=3D"complete")
+    {
+     g_rglTabX[0]=3D0;
+     var i;
+     for (i=3D1;i<=3Dc_lTabs;i++)
+      with (frames['frTabs'].document.all.tbTabs.rows[1].cells[fnTabToCol(i-=
+1)])
+       g_rglTabX[i]=3DoffsetLeft+offsetWidth-6;
+    }
+    else
+     window.setTimeout("fnInit()",150);
+   }
+}
+
+function fnGetIEVer()
+{
+ var stzAgent=3Dnavigator.userAgent;
+ var iVer=3DparseInt(navigator.appVersion);
+ if (stzAgent.indexOf("MSIE")!=3D-1 && iVer<4)
+  g_iIEVer=3D3;
+ else if (stzAgent.indexOf("MSIE 4")!=3D-1)
+  g_iIEVer=3D4;
+ else
+  g_iIEVer=3D5;
+}
+
+function fnTabToCol(iTab)
+{
+ return 2*iTab+1;
+}
+
+function fnNextTab(fDir)
+{
+ var iNextTab=3D-1;
+ var i;
+
+ with (frames['frTabs'].document.body) {
+  if (fDir=3D=3D0) {
+   if (scrollLeft>0) {
+    for (i=3D0;i<c_lTabs&&g_rglTabX[i]<scrollLeft;i++);
+    if (i<c_lTabs)
+     iNextTab=3Di-1;
+   }
+  } else {
+   if (g_rglTabX[c_lTabs]+6>offsetWidth+scrollLeft) {
+    for (i=3D0;i<c_lTabs&&g_rglTabX[i]<=3DscrollLeft;i++);
+    if (i<c_lTabs)
+     iNextTab=3Di;
+   }
+  }
+ }
+ return iNextTab;
+}
+
+function fnScrollTabs(fDir)
+{
+ var iNextTab=3DfnNextTab(fDir);
+
+ if (iNextTab>=3D0) {
+  frames['frTabs'].scroll(g_rglTabX[iNextTab],0);
+  return true;
+ } else
+  return false;
+}
+
+function fnFastScrollTabs(fDir)
+{
+ if (c_lTabs>16)
+  frames['frTabs'].scroll(g_rglTabX[fDir?c_lTabs-1:0],0);
+ else
+  if (fnScrollTabs(fDir)>0) window.setTimeout("fnFastScrollTabs("+fDir+");",=
+5);
+}
+
+function fnSetTabProps(iTab,fActive)
+{
+ var iCol=3DfnTabToCol(iTab);
+ var i;
+
+ if (iTab>=3D0) {
+  with (frames['frTabs'].document.all) {
+   with (tbTabs) {
+    for (i=3D0;i<=3D4;i++) {
+     with (rows[i]) {
+      if (i=3D=3D0)
+       cells[iCol].style.background=3Dc_rgszClr[fActive?0:2];
+      else if (i>0 && i<4) {
+       if (fActive) {
+        cells[iCol-1].style.background=3Dc_rgszClr[2];
+        cells[iCol].style.background=3Dc_rgszClr[0];
+        cells[iCol+1].style.background=3Dc_rgszClr[2];
+       } else {
+        if (i=3D=3D1) {
+         cells[iCol-1].style.background=3Dc_rgszClr[2];
+         cells[iCol].style.background=3Dc_rgszClr[1];
+         cells[iCol+1].style.background=3Dc_rgszClr[2];
+        } else {
+         cells[iCol-1].style.background=3Dc_rgszClr[4];
+         cells[iCol].style.background=3Dc_rgszClr[(i=3D=3D2)?2:4];
+         cells[iCol+1].style.background=3Dc_rgszClr[4];
+        }
+       }
+      } else
+       cells[iCol].style.background=3Dc_rgszClr[fActive?2:4];
+     }
+    }
+   }
+   with (aTab[iTab].style) {
+    cursor=3D(fActive?"default":"hand");
+    color=3Dc_rgszClr[3];
+   }
+  }
+ }
+}
+
+function fnMouseOverScroll(iCtl)
+{
+ frames['frScroll'].document.all.tdScroll[iCtl].style.color=3Dc_rgszClr[5];
+}
+
+function fnMouseOutScroll(iCtl)
+{
+ frames['frScroll'].document.all.tdScroll[iCtl].style.color=3Dc_rgszClr[2];
+}
+
+function fnMouseOverTab(iTab)
+{
+ if (iTab!=3Dg_iShCur) {
+  var iCol=3DfnTabToCol(iTab);
+  with (frames['frTabs'].document.all) {
+   tdTab[iTab].style.background=3Dc_rgszClr[5];
+  }
+ }
+}
+
+function fnMouseOutTab(iTab)
+{
+ if (iTab>=3D0) {
+  var elFrom=3Dframes['frTabs'].event.srcElement;
+  var elTo=3Dframes['frTabs'].event.toElement;
+
+  if ((!elTo) ||
+   (elFrom.tagName=3D=3DelTo.tagName) ||
+   (elTo.tagName=3D=3D"A" && elTo.parentElement!=3DelFrom) ||
+   (elFrom.tagName=3D=3D"A" && elFrom.parentElement!=3DelTo)) {
+
+   if (iTab!=3Dg_iShCur) {
+    with (frames['frTabs'].document.all) {
+     tdTab[iTab].style.background=3Dc_rgszClr[1];
+    }
+   }
+  }
+ }
+}
+
+function fnSetActiveSheet(iSh)
+{
+ if (iSh!=3Dg_iShCur) {
+  fnSetTabProps(g_iShCur,false);
+  fnSetTabProps(iSh,true);
+  g_iShCur=3DiSh;
+ }
+}
+ fnGetIEVer();
+ fnBuildFrameset();
+//-->
+</script>
+<![endif]><!--[if gte mso 9]><xml>
+ <x:ExcelWorkbook>
+  <x:ExcelWorksheets>
+   <x:ExcelWorksheet>
+    <x:Name>A、今日目标完成情况</x:Name>
+    <x:WorksheetSource HRef=3D"file3217.fld/sheet001.htm"/>
+   </x:ExcelWorksheet>
+   <x:ExcelWorksheet>
+    <x:Name>B、总结具体内容</x:Name>
+    <x:WorksheetSource HRef=3D"file3217.fld/sheet002.htm"/>
+   </x:ExcelWorksheet>
+   <x:ExcelWorksheet>
+    <x:Name>C、个人小结</x:Name>
+    <x:WorksheetSource HRef=3D"file3217.fld/sheet003.htm"/>
+   </x:ExcelWorksheet>
+   <x:ExcelWorksheet>
+    <x:Name>D、明日计划目标</x:Name>
+    <x:WorksheetSource HRef=3D"file3217.fld/sheet004.htm"/>
+   </x:ExcelWorksheet>
+  </x:ExcelWorksheets>
+  <x:Stylesheet HRef=3D"file3217.fld/stylesheet.css"/>
+  <x:WindowHeight>18000</x:WindowHeight>
+  <x:WindowWidth>28800</x:WindowWidth>
+  <x:WindowTopX>0</x:WindowTopX>
+  <x:WindowTopY>0</x:WindowTopY>
+  <x:TabRatio>800</x:TabRatio>
+  <x:ActiveSheet>3</x:ActiveSheet>
+  <x:ProtectStructure>False</x:ProtectStructure>
+  <x:ProtectWindows>False</x:ProtectWindows>
+ </x:ExcelWorkbook>
+</xml><![endif]-->
+</head>
+
+<frameset rows=3D"*,39" border=3D0 width=3D0 frameborder=3Dno framespacing=
+=3D0>
+ <frame src=3D"file3217.fld/sheet004.htm" name=3D"frSheet">
+ <frame src=3D"file3217.fld/tabstrip.htm" name=3D"frTabs" marginwidth=3D0 ma=
+rginheight=3D0>
+ <noframes>
+  <body>
+   <p>This page uses frames, but your browser doesn't support them.</p>
+  </body>
+ </noframes>
+</frameset>
+</html>
+
+------=_NextPart_01D39709.8DC98350
+Content-Location: file:///C:/2184AD31/file3217.fld/stylesheet.css
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/css; charset="utf-8"
+
+tr
+	{mso-height-source:auto;
+	mso-ruby-visibility:none;}
+col
+	{mso-width-source:auto;
+	mso-ruby-visibility:none;}
+br
+	{mso-data-placement:same-cell;}
+ruby
+	{ruby-align:left;}
+.style0
+	{mso-number-format:General;
+	text-align:general;
+	vertical-align:middle;
+	white-space:nowrap;
+	mso-rotate:0;
+	padding-left:18px;
+	mso-char-indent-count:1;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	color:black;
+	font-size:9.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:-apple-system;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	border:none;
+	mso-protection:locked visible;
+	mso-style-name:常规;
+	mso-style-id:0;}
+td
+	{mso-style-parent:style0;
+	color:black;
+	font-size:9.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:-apple-system;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:middle;
+	border:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	mso-protection:locked visible;
+	white-space:nowrap;
+	mso-rotate:0;
+	padding-left:18px;
+	mso-char-indent-count:1;}
+.xl65
+	{mso-style-parent:style0;
+	color:windowtext;
+	padding-left:0px;}
+.xl66
+	{mso-style-parent:style0;
+	color:windowtext;
+	font-family:华文楷体;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	padding-left:0px;}
+.xl67
+	{mso-style-parent:style0;
+	font-family:华文楷体;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.xl68
+	{mso-style-parent:style0;
+	color:windowtext;
+	font-size:18.0pt;
+	font-family:华文楷体;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	text-align:center;
+	padding-left:0px;}
+.xl69
+	{mso-style-parent:style0;
+	color:windowtext;
+	font-size:12.0pt;
+	font-family:华文楷体;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	text-align:center;
+	padding-left:0px;}
+.xl70
+	{mso-style-parent:style0;
+	color:windowtext;
+	font-size:18.0pt;
+	font-family:华文楷体;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	text-align:left;
+	padding-left:0px;}
+.xl71
+	{mso-style-parent:style0;
+	color:windowtext;
+	font-size:14.0pt;
+	font-family:华文楷体;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	text-align:center;
+	padding-left:0px;}
+.xl72
+	{mso-style-parent:style0;
+	color:windowtext;
+	font-size:12.0pt;
+	font-family:华文楷体;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	text-align:right;
+	padding-right:0px;}
+.xl73
+	{mso-style-parent:style0;
+	color:windowtext;
+	font-size:12.0pt;
+	font-family:华文楷体;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	padding-left:0px;}
+.xl74
+	{mso-style-parent:style0;
+	font-size:12.0pt;
+	font-family:华文楷体;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.xl75
+	{mso-style-parent:style0;
+	color:windowtext;
+	font-size:20.0pt;
+	font-family:华文楷体;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	text-align:center;
+	padding-left:0px;}
+.xl76
+	{mso-style-parent:style0;
+	color:windowtext;
+	font-size:18.0pt;
+	font-family:华文楷体;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	padding-left:0px;}
+.xl77
+	{mso-style-parent:style0;
+	color:windowtext;
+	font-size:16.0pt;
+	font-family:华文楷体;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	padding-left:0px;}
+.xl78
+	{mso-style-parent:style0;
+	color:windowtext;
+	font-size:14.0pt;
+	font-family:华文楷体;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	padding-left:0px;}
+.xl79
+	{mso-style-parent:style0;
+	color:windowtext;
+	font-size:20.0pt;
+	font-family:华文楷体;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	padding-left:0px;}
+.xl80
+	{mso-style-parent:style0;
+	color:windowtext;
+	font-size:12.0pt;
+	padding-left:0px;}
+.xl81
+	{mso-style-parent:style0;
+	font-size:12.0pt;}
+.xl82
+	{mso-style-parent:style0;
+	color:windowtext;
+	font-size:12.0pt;
+	font-family:华文楷体;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	mso-number-format:"Short Time";
+	padding-left:0px;}
+.xl83
+	{mso-style-parent:style0;
+	color:windowtext;
+	font-size:12.0pt;
+	font-family:华文楷体;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	mso-number-format:0%;
+	padding-left:0px;}
+.xl84
+	{mso-style-parent:style0;
+	font-size:12.0pt;
+	font-family:华文楷体;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	text-align:center;
+	white-space:normal;
+	padding-left:0px;}
+.xl85
+	{mso-style-parent:style0;
+	font-size:12.0pt;
+	font-family:华文楷体;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	text-align:left;
+	white-space:normal;
+	padding-left:0px;}
+.xl86
+	{mso-style-parent:style0;
+	font-size:14.0pt;
+	font-family:华文楷体;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	text-align:left;}
+.xl87
+	{mso-style-parent:style0;
+	color:windowtext;
+	font-size:12.0pt;
+	font-family:华文楷体;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	mso-number-format:"m\0022月\0022d\0022日\0022";
+	padding-left:0px;}
+.xl88
+	{mso-style-parent:style0;
+	font-size:12.0pt;
+	font-family:华文楷体;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	text-align:left;}
+.xl89
+	{mso-style-parent:style0;
+	color:windowtext;
+	font-size:12.0pt;
+	font-weight:700;
+	font-family:华文楷体;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	text-align:center;
+	padding-left:0px;}
+.xl90
+	{mso-style-parent:style0;
+	color:windowtext;
+	font-size:12.0pt;
+	font-weight:700;
+	font-family:华文楷体;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	text-align:center;
+	background:yellow;
+	mso-pattern:black none;
+	padding-left:0px;}
+.xl91
+	{mso-style-parent:style0;
+	color:red;
+	font-size:12.0pt;
+	font-weight:700;
+	font-family:华文楷体;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	text-align:center;
+	padding-left:0px;}
+.xl92
+	{mso-style-parent:style0;
+	font-size:12.0pt;
+	font-weight:700;
+	font-family:华文楷体;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	text-align:left;
+	white-space:normal;
+	padding-left:0px;}
+
+------=_NextPart_01D39709.8DC98350
+Content-Location: file:///C:/2184AD31/file3217.fld/tabstrip.htm
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="utf-8"
+
+<html>
+<head>
+<meta http-equiv=3DContent-Type content=3D"text/html; charset=3Dutf-8">
+<meta name=3DProgId content=3DExcel.Sheet>
+<meta name=3DGenerator content=3D"Microsoft Excel 15">
+<link id=3DMain-File rel=3DMain-File href=3D"../file3217.htm">
+<![if IE]>
+<base href=3D"file:////C:/2184AD31/file3217.fld/tabstrip.htm"
+id=3D"webarch_temp_base_tag">
+<![endif]>
+<script language=3D"JavaScript">
+<!--
+if (window.name!=3D"frTabs")
+ window.location.replace(document.all.item("Main-File").href);
+//-->
+</script>
+<style>
+<!--
+A {
+    text-decoration:none;
+    color:#000000;
+    font-size:9pt;
+}
+-->
+</style>
+</head>
+<body topmargin=3D0 leftmargin=3D0 bgcolor=3D"#808080">
+<table border=3D0 cellspacing=3D1>
+ <tr>
+ <td bgcolor=3D"#FFFFFF" nowrap><b><small><small>&nbsp;<a href=3D"sheet001.h=
+tm" target=3D"frSheet"><font face=3D"宋体" color=3D"#000000">A、今日目=
+标完成情况</font></a>&nbsp;</small></small></b></td>
+ <td bgcolor=3D"#FFFFFF" nowrap><b><small><small>&nbsp;<a href=3D"sheet002.h=
+tm" target=3D"frSheet"><font face=3D"宋体" color=3D"#000000">B、总结具=
+体内容</font></a>&nbsp;</small></small></b></td>
+ <td bgcolor=3D"#FFFFFF" nowrap><b><small><small>&nbsp;<a href=3D"sheet003.h=
+tm" target=3D"frSheet"><font face=3D"宋体" color=3D"#000000">C、个人小=
+结</font></a>&nbsp;</small></small></b></td>
+ <td bgcolor=3D"#FFFFFF" nowrap><b><small><small>&nbsp;<a href=3D"sheet004.h=
+tm" target=3D"frSheet"><font face=3D"宋体" color=3D"#000000">D、明日计=
+划目标</font></a>&nbsp;</small></small></b></td>
+
+ </tr>
+</table>
+</body>
+</html>
+
+------=_NextPart_01D39709.8DC98350
+Content-Location: file:///C:/2184AD31/file3217.fld/sheet001.htm
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="utf-8"
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml"
+xmlns:o=3D"urn:schemas-microsoft-com:office:office"
+xmlns:x=3D"urn:schemas-microsoft-com:office:excel"
+xmlns=3D"http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=3DContent-Type content=3D"text/html; charset=3Dutf-8">
+<meta name=3DProgId content=3DExcel.Sheet>
+<meta name=3DGenerator content=3D"Microsoft Excel 15">
+<link id=3DMain-File rel=3DMain-File href=3D"../file3217.htm">
+<link rel=3DFile-List href=3Dfilelist.xml>
+<![if IE]>
+<base href=3D"file:////C:/2184AD31/file3217.fld/sheet001.htm"
+id=3D"webarch_temp_base_tag">
+<![endif]>
+<link rel=3DStylesheet href=3Dstylesheet.css>
+<style>
+<!--table
+	{mso-displayed-decimal-separator:"\.";
+	mso-displayed-thousand-separator:"\,";}
+@page
+	{margin:.75in .7in .75in .7in;
+	mso-header-margin:.3in;
+	mso-footer-margin:.3in;}
+ruby
+	{ruby-align:left;}
+rt
+	{color:windowtext;
+	font-size:9.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:-apple-system;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-char-type:none;
+	display:none;}
+-->
+</style>
+<![if !supportTabStrip]><script language=3D"JavaScript">
+<!--
+function fnUpdateTabs()
+ {
+  if (parent.window.g_iIEVer>=3D4) {
+   if (parent.document.readyState=3D=3D"complete"
+    && parent.frames['frTabs'].document.readyState=3D=3D"complete")
+   parent.fnSetActiveSheet(0);
+  else
+   window.setTimeout("fnUpdateTabs();",150);
+ }
+}
+
+if (window.name!=3D"frSheet")
+ window.location.replace("../file3217.htm");
+else
+ fnUpdateTabs();
+//-->
+</script>
+<![endif]>
+</head>
+
+<body link=3D"#0563C1" vlink=3D"#954F72">
+
+<table border=3D0 cellpadding=3D0 cellspacing=3D0 width=3D1574 style=3D'bord=
+er-collapse:
+ collapse;table-layout:fixed;width:1181pt'>
+ <col width=3D81 style=3D'mso-width-source:userset;mso-width-alt:3123;width:=
+61pt'>
+ <col width=3D180 style=3D'mso-width-source:userset;mso-width-alt:6912;width=
+:135pt'>
+ <col width=3D153 style=3D'mso-width-source:userset;mso-width-alt:5888;width=
+:115pt'>
+ <col width=3D144 style=3D'mso-width-source:userset;mso-width-alt:5529;width=
+:108pt'>
+ <col width=3D125 style=3D'mso-width-source:userset;mso-width-alt:4812;width=
+:94pt'>
+ <col width=3D119 style=3D'mso-width-source:userset;mso-width-alt:4556;width=
+:89pt'>
+ <col width=3D228 style=3D'mso-width-source:userset;mso-width-alt:8755;width=
+:171pt'>
+ <col width=3D243 style=3D'mso-width-source:userset;mso-width-alt:9318;width=
+:182pt'>
+ <col width=3D301 style=3D'mso-width-source:userset;mso-width-alt:11571;widt=
+h:226pt'>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td colspan=3D8 height=3D40 class=3Dxl68 width=3D1273 style=3D'height:30.0=
+pt;
+  width:955pt'>292478-于子津 总结 2018-01-26【连续 349 天总结，=
+倒计时16天】</td>
+  <td width=3D301 style=3D'width:226pt'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td colspan=3D8 height=3D40 class=3Dxl70 style=3D'height:30.0pt'>A、今=
+日目标完成情况</td>
+  <td></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 class=3Dxl71 style=3D'height:30.0pt'>序号</td>
+  <td class=3Dxl71>项目</td>
+  <td class=3Dxl71>时间安排</td>
+  <td class=3Dxl71>量化</td>
+  <td class=3Dxl71>完成<ruby><rb>时</rb><span style=3D'display:none'><rt>=
+shi j</rt></span></ruby>间</td>
+  <td class=3Dxl71>进度</td>
+  <td class=3Dxl71>反思</td>
+  <td class=3Dxl71>调整</td>
+  <td></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 class=3Dxl72 style=3D'height:30.0pt'>1</td>
+  <td class=3Dxl91>keep</td>
+  <td class=3Dxl73>5:30-6:30</td>
+  <td class=3Dxl74>1<ruby><rb>小</rb><span style=3D'display:none'><rt>xiao =
+shi</rt></span></ruby>时</td>
+  <td class=3Dxl74>6:00-7:00</td>
+  <td class=3Dxl83 align=3Dright>80%</td>
+  <td class=3Dxl74><ruby><rb>还</rb><span style=3D'display:none'><rt>hai sh=
+i</rt></span></ruby>是<ruby><rb>和</rb><span
+  style=3D'display:none'><rt>he shui mian</rt></span></ruby>睡眠<ruby><rb>=
+时</rb><span
+  style=3D'display:none'><rt>shi j</rt></span></ruby>间<ruby><rb>有</rb><s=
+pan
+  style=3D'display:none'><rt>you guan</rt></span></ruby>关</td>
+  <td class=3Dxl74></td>
+  <td></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 class=3Dxl72 style=3D'height:30.0pt'>2</td>
+  <td class=3Dxl89>公众号文章</td>
+  <td class=3Dxl73>7:00-8:00</td>
+  <td class=3Dxl74>1<ruby><rb>小</rb><span style=3D'display:none'><rt>xiao =
+shi</rt></span></ruby>时</td>
+  <td class=3Dxl74>7:20-8:10</td>
+  <td class=3Dxl83 align=3Dright>100%</td>
+  <td class=3Dxl74>2.3<ruby><rb>做</rb><span style=3D'display:none'><rt>zuo=
+ chu
+  zheng gai</rt></span></ruby>出整改</td>
+  <td class=3Dxl74></td>
+  <td></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 class=3Dxl72 style=3D'height:30.0pt'>3</td>
+  <td class=3Dxl91>背诵人情做透四招</td>
+  <td class=3Dxl73>1:15-1:35</td>
+  <td class=3Dxl74>20<ruby><rb>分</rb><span style=3D'display:none'><rt>fen =
+z</rt></span></ruby>钟</td>
+  <td class=3Dxl74>1:15-1:35</td>
+  <td class=3Dxl83 align=3Dright>100%</td>
+  <td class=3Dxl74></td>
+  <td class=3Dxl74></td>
+  <td></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 class=3Dxl72 style=3D'height:30.0pt'>4</td>
+  <td class=3Dxl89>跑步3公里</td>
+  <td class=3Dxl73>8:00-8:40</td>
+  <td class=3Dxl74>30<ruby><rb>分</rb><span style=3D'display:none'><rt>fen =
+z</rt></span></ruby>钟</td>
+  <td class=3Dxl74>8:20-8:45</td>
+  <td class=3Dxl83 align=3Dright>100%</td>
+  <td class=3Dxl74><ruby><rb>太</rb><span style=3D'display:none'><rt>tai le=
+g le</rt></span></ruby>冷了，<ruby><rb>冻</rb><span
+  style=3D'display:none'><rt>dong er duo</rt></span></ruby>耳朵</td>
+  <td class=3Dxl74></td>
+  <td></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 class=3Dxl72 style=3D'height:30.0pt'>5</td>
+  <td class=3Dxl89>流利说</td>
+  <td class=3Dxl73>12:25-1:15</td>
+  <td class=3Dxl74>1<ruby><rb>小</rb><span style=3D'display:none'><rt>xiao =
+shi</rt></span></ruby>时</td>
+  <td class=3Dxl74>12:25-1:15</td>
+  <td class=3Dxl83 align=3Dright>75%</td>
+  <td class=3Dxl74><ruby><rb>终</rb><span style=3D'display:none'><rt>zhong =
+yu</rt></span></ruby>于Unit
+  1<ruby><rb>都</rb><span style=3D'display:none'><rt>dou shi</rt></span></r=
+uby>是3<ruby><rb>星</rb><span
+  style=3D'display:none'><rt>xing</rt></span></ruby><ruby><rb>以</rb><span
+  style=3D'display:none'><rt>yi shang</rt></span></ruby>上</td>
+  <td class=3Dxl74></td>
+  <td></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 class=3Dxl72 style=3D'height:30.0pt'>6</td>
+  <td class=3Dxl89>抄写概念</td>
+  <td class=3Dxl73>3:00-3:30</td>
+  <td class=3Dxl74>30<ruby><rb>分</rb><span style=3D'display:none'><rt>fen =
+z</rt></span></ruby>钟</td>
+  <td class=3Dxl74>3:22-3:53</td>
+  <td class=3Dxl83 align=3Dright>100%</td>
+  <td class=3Dxl74><ruby><rb>反</rb><span style=3D'display:none'><rt>fan fu=
+</rt></span></ruby>复<ruby><rb>看</rb><span
+  style=3D'display:none'><rt>kan xiao xi</rt></span></ruby>消息，<ruby><r=
+b>导</rb><span
+  style=3D'display:none'><rt>dao zhi</rt></span></ruby>致<ruby><rb>效</rb>=
+<span
+  style=3D'display:none'><rt>xiao l</rt></span></ruby>率<ruby><rb>降</rb><=
+span
+  style=3D'display:none'><rt>jiang di</rt></span></ruby>低</td>
+  <td class=3Dxl74><ruby><rb>主</rb><span style=3D'display:none'><rt>zhu do=
+ng gan yu</rt></span></ruby>动干预</td>
+  <td></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 class=3Dxl72 style=3D'height:30.0pt'>7</td>
+  <td class=3Dxl89>基金课程学习</td>
+  <td class=3Dxl73>8:00-9:00</td>
+  <td class=3Dxl74>1<ruby><rb>小</rb><span style=3D'display:none'><rt>xiao =
+shi</rt></span></ruby>时</td>
+  <td class=3Dxl74>8:00-8:55</td>
+  <td class=3Dxl83 align=3Dright>80%</td>
+  <td class=3Dxl74><ruby><rb>最</rb><span style=3D'display:none'><rt>zui j<=
+/rt></span></ruby>近<ruby><rb>两</rb><span
+  style=3D'display:none'><rt>liang t</rt></span></ruby>天<ruby><rb>内</rb>=
+<span
+  style=3D'display:none'><rt>nei rong</rt></span></ruby>容<ruby><rb>挺</rb=
+><span
+  style=3D'display:none'><rt>ting duo</rt></span></ruby>多</td>
+  <td class=3Dxl74></td>
+  <td></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 class=3Dxl72 style=3D'height:30.0pt'>8</td>
+  <td class=3Dxl89>给班级同学写信</td>
+  <td class=3Dxl73>9:30-10:00</td>
+  <td class=3Dxl74><ruby><rb>半</rb><span style=3D'display:none'><rt>ban xi=
+ao shi</rt></span></ruby>小时</td>
+  <td class=3Dxl74><ruby><rb>未</rb><span style=3D'display:none'><rt>wei wa=
+n c</rt></span></ruby>完成</td>
+  <td class=3Dxl73 align=3Dright>0</td>
+  <td class=3Dxl74><ruby><rb>晚</rb><span style=3D'display:none'><rt>wan s<=
+/rt></span></ruby>上<ruby><rb>节</rb><span
+  style=3D'display:none'><rt>jie zou</rt></span></ruby>奏<ruby><rb>有</rb>=
+<span
+  style=3D'display:none'><rt>you dian luan le</rt></span></ruby>点乱了</t=
+d>
+  <td class=3Dxl88 colspan=3D2 style=3D'mso-ignore:colspan'><ruby><rb>明</r=
+b><span
+  style=3D'display:none'><rt>ming er</rt></span></ruby>儿<ruby><rb>下</rb>=
+<span
+  style=3D'display:none'><rt>xia wu</rt></span></ruby>午7:00-8:00<ruby><rb>=
+把</rb><span
+  style=3D'display:none'><rt>ba</rt></span></ruby>所有信<ruby><rb>整</rb=
+><span
+  style=3D'display:none'><rt>zheng li xia</rt></span></ruby>理下</td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 class=3Dxl72 style=3D'height:30.0pt'>9</td>
+  <td class=3Dxl89>组长会议-礼物</td>
+  <td class=3Dxl73>9:00-9:30</td>
+  <td class=3Dxl74>1<ruby><rb>小</rb><span style=3D'display:none'><rt>xiao =
+shi</rt></span></ruby>时</td>
+  <td class=3Dxl74>9:00-9:30</td>
+  <td class=3Dxl83 align=3Dright>100%</td>
+  <td class=3Dxl74><ruby><rb>顺</rb><span style=3D'display:none'><rt>shun l=
+i wan c</rt></span></ruby>利完成</td>
+  <td class=3Dxl74><ruby><rb>明</rb><span style=3D'display:none'><rt>ming t=
+</rt></span></ruby>天<ruby><rb>将</rb><span
+  style=3D'display:none'><rt>jiang</rt></span></ruby><ruby><rb>照</rb><span
+  style=3D'display:none'><rt>zhao p</rt></span></ruby>片<ruby><rb>上</rb><=
+span
+  style=3D'display:none'><rt>shang chuan</rt></span></ruby>传<ruby><rb>至<=
+/rb><span
+  style=3D'display:none'><rt>zhi</rt></span></ruby><ruby><rb>群</rb><span
+  style=3D'display:none'><rt>qun li</rt></span></ruby>里</td>
+  <td></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 class=3Dxl72 style=3D'height:30.0pt'>10</td>
+  <td class=3Dxl89>下周阿米巴部署</td>
+  <td class=3Dxl73>9:00-9:30</td>
+  <td class=3Dxl74>1<ruby><rb>小</rb><span style=3D'display:none'><rt>xiao =
+shi</rt></span></ruby>时</td>
+  <td class=3Dxl74>9:00-9:30</td>
+  <td class=3Dxl83 align=3Dright>100%</td>
+  <td class=3Dxl74><ruby><rb>顺</rb><span style=3D'display:none'><rt>shun l=
+i wan c</rt></span></ruby>利完成</td>
+  <td class=3Dxl74>已交由<ruby><rb>阿</rb><span style=3D'display:none'><=
+rt>a wei</rt></span></ruby>伟</td>
+  <td></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 class=3Dxl72 style=3D'height:30.0pt'>11</td>
+  <td class=3Dxl89>和点评学弟沟通</td>
+  <td class=3Dxl73>6:30-7:00</td>
+  <td class=3Dxl74><ruby><rb>半</rb><span style=3D'display:none'><rt>ban xi=
+ao shi</rt></span></ruby>小时</td>
+  <td class=3Dxl74>9:30-10:00</td>
+  <td class=3Dxl83 align=3Dright>100%</td>
+  <td class=3Dxl74><ruby><rb>临</rb><span style=3D'display:none'><rt>lin sh=
+i</rt></span></ruby>时<ruby><rb>菠</rb><span
+  style=3D'display:none'><rt>bo cai</rt></span></ruby>菜<ruby><rb>打</rb><=
+span
+  style=3D'display:none'><rt>d d h</rt></span></ruby>电话<ruby><rb>来</rb=
+><span
+  style=3D'display:none'><rt>lai</rt></span></ruby></td>
+  <td class=3Dxl74><ruby><rb>已</rb><span style=3D'display:none'><rt>yi lia=
+n xi</rt></span></ruby>联系<ruby><rb>老</rb><span
+  style=3D'display:none'><rt>lao da</rt></span></ruby>大</td>
+  <td></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 class=3Dxl72 style=3D'height:30.0pt'>12</td>
+  <td class=3Dxl89>和其他团巨头沟通</td>
+  <td class=3Dxl73>9:30-10:00</td>
+  <td class=3Dxl74>20分钟</td>
+  <td class=3Dxl74>9:45-10:10</td>
+  <td class=3Dxl83 align=3Dright>100%</td>
+  <td class=3Dxl74><ruby><rb>闲</rb><span style=3D'display:none'><rt>xian l=
+iao tai
+  duo</rt></span></ruby>聊太多</td>
+  <td class=3Dxl74><ruby><rb>有</rb><span style=3D'display:none'><rt>you sh=
+i q</rt></span></ruby>事情<ruby><rb>直</rb><span
+  style=3D'display:none'><rt>zhi jie dian h</rt></span></ruby>接电话，<r=
+uby><rb>不</rb><span
+  style=3D'display:none'><rt>bu xian liao</rt></span></ruby>闲聊</td>
+  <td></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 class=3Dxl72 style=3D'height:30.0pt'>13</td>
+  <td class=3Dxl90><ruby><rb>和</rb><span style=3D'display:none'><rt>he</rt=
+></span></ruby><ruby><rb>同</rb><span
+  style=3D'display:none'><rt>tong x</rt></span></ruby>学<ruby><rb>沟</rb><=
+span
+  style=3D'display:none'><rt>gou tong</rt></span></ruby>通</td>
+  <td class=3Dxl73></td>
+  <td class=3Dxl74></td>
+  <td class=3Dxl74>10:10-10:45</td>
+  <td class=3Dxl73></td>
+  <td class=3Dxl74></td>
+  <td class=3Dxl74></td>
+  <td class=3Dxl74><ruby><rb>计</rb><span style=3D'display:none'><rt>ji hua=
+ w</rt></span></ruby>划外</td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 class=3Dxl73 style=3D'height:30.0pt'>补充</td>
+  <td class=3Dxl74></td>
+  <td class=3Dxl73></td>
+  <td class=3Dxl73></td>
+  <td class=3Dxl74></td>
+  <td class=3Dxl73></td>
+  <td class=3Dxl74></td>
+  <td class=3Dxl74></td>
+  <td></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 class=3Dxl72 style=3D'height:30.0pt'>1</td>
+  <td class=3Dxl73>起床时间</td>
+  <td class=3Dxl73></td>
+  <td class=3Dxl74></td>
+  <td class=3Dxl74></td>
+  <td class=3Dxl73></td>
+  <td class=3Dxl74></td>
+  <td class=3Dxl74></td>
+  <td></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 class=3Dxl72 style=3D'height:30.0pt'>2</td>
+  <td class=3Dxl73>睡眠时间</td>
+  <td class=3Dxl82 align=3Dright>1:00</td>
+  <td class=3Dxl74></td>
+  <td class=3Dxl74></td>
+  <td class=3Dxl73></td>
+  <td class=3Dxl74></td>
+  <td class=3Dxl74></td>
+  <td></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 class=3Dxl65 style=3D'height:30.0pt'></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl80></td>
+  <td class=3Dxl81></td>
+  <td class=3Dxl81></td>
+  <td class=3Dxl80></td>
+  <td class=3Dxl81></td>
+  <td class=3Dxl81></td>
+  <td></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 style=3D'height:30.0pt'></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 style=3D'height:30.0pt'></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 style=3D'height:30.0pt'></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 style=3D'height:30.0pt'></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 style=3D'height:30.0pt'></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'page-break-before:always;mso-height-source:userset=
+;
+  height:30.0pt'>
+  <td height=3D40 style=3D'height:30.0pt'></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 style=3D'height:30.0pt'></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 style=3D'height:30.0pt'></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 style=3D'height:30.0pt'></td>
+  <td class=3Dxl65></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'page-break-before:always;mso-height-source:userset=
+;
+  height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'page-break-before:always;mso-height-source:userset=
+;
+  height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 colspan=3D2 style=3D'height:30.0pt;mso-ignore:colspan'></t=
+d>
+  <td class=3Dxl65></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+  <td class=3Dxl65></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+</table>
+
+</body>
+
+</html>
+
+------=_NextPart_01D39709.8DC98350
+Content-Location: file:///C:/2184AD31/file3217.fld/sheet002.htm
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="utf-8"
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml"
+xmlns:o=3D"urn:schemas-microsoft-com:office:office"
+xmlns:x=3D"urn:schemas-microsoft-com:office:excel"
+xmlns=3D"http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=3DContent-Type content=3D"text/html; charset=3Dutf-8">
+<meta name=3DProgId content=3DExcel.Sheet>
+<meta name=3DGenerator content=3D"Microsoft Excel 15">
+<link id=3DMain-File rel=3DMain-File href=3D"../file3217.htm">
+<link rel=3DFile-List href=3Dfilelist.xml>
+<![if IE]>
+<base href=3D"file:////C:/2184AD31/file3217.fld/sheet002.htm"
+id=3D"webarch_temp_base_tag">
+<![endif]>
+<link rel=3DStylesheet href=3Dstylesheet.css>
+<style>
+<!--table
+	{mso-displayed-decimal-separator:"\.";
+	mso-displayed-thousand-separator:"\,";}
+@page
+	{margin:.75in .7in .75in .7in;
+	mso-header-margin:.3in;
+	mso-footer-margin:.3in;
+	mso-page-orientation:landscape;}
+ruby
+	{ruby-align:left;}
+rt
+	{color:windowtext;
+	font-size:9.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:-apple-system;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-char-type:none;
+	display:none;}
+-->
+</style>
+<![if !supportTabStrip]><script language=3D"JavaScript">
+<!--
+function fnUpdateTabs()
+ {
+  if (parent.window.g_iIEVer>=3D4) {
+   if (parent.document.readyState=3D=3D"complete"
+    && parent.frames['frTabs'].document.readyState=3D=3D"complete")
+   parent.fnSetActiveSheet(1);
+  else
+   window.setTimeout("fnUpdateTabs();",150);
+ }
+}
+
+if (window.name!=3D"frSheet")
+ window.location.replace("../file3217.htm");
+else
+ fnUpdateTabs();
+//-->
+</script>
+<![endif]>
+</head>
+
+<body link=3D"#0563C1" vlink=3D"#954F72" class=3Dxl67>
+
+<table border=3D0 cellpadding=3D0 cellspacing=3D0 width=3D2060 style=3D'bord=
+er-collapse:
+ collapse;table-layout:fixed;width:1545pt'>
+ <col class=3Dxl67 width=3D196 style=3D'mso-width-source:userset;mso-width-a=
+lt:7526;
+ width:147pt'>
+ <col class=3Dxl67 width=3D617 style=3D'mso-width-source:userset;mso-width-a=
+lt:23705;
+ width:463pt'>
+ <col class=3Dxl67 width=3D168 style=3D'mso-width-source:userset;mso-width-a=
+lt:6451;
+ width:126pt'>
+ <col class=3Dxl67 width=3D205 style=3D'mso-width-source:userset;mso-width-a=
+lt:7884;
+ width:154pt'>
+ <col class=3Dxl67 width=3D320 style=3D'mso-width-source:userset;mso-width-a=
+lt:12288;
+ width:240pt'>
+ <col class=3Dxl67 width=3D420 style=3D'mso-width-source:userset;mso-width-a=
+lt:16128;
+ width:315pt'>
+ <col class=3Dxl67 width=3D67 span=3D2 style=3D'width:50pt'>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td colspan=3D8 height=3D40 class=3Dxl75 width=3D2060 style=3D'height:30.0=
+pt;
+  width:1545pt'>292478-于子津 总结 2018-01-26【连续 349 天总结，=
+倒计时16天】</td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td colspan=3D6 height=3D40 class=3Dxl76 style=3D'height:30.0pt'>B、总=
+结具体内容</td>
+  <td class=3Dxl67></td>
+  <td class=3Dxl67></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td colspan=3D6 height=3D40 class=3Dxl77 style=3D'height:30.0pt'>一、学=
+习总结</td>
+  <td class=3Dxl67></td>
+  <td class=3Dxl67></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 class=3Dxl71 style=3D'height:30.0pt'><ruby><rb>标</rb><sp=
+an
+  style=3D'display:none'><rt>biao ti</rt></span></ruby>题</td>
+  <td class=3Dxl71>学习内容</td>
+  <td class=3Dxl71>学习理解</td>
+  <td class=3Dxl71>学以致用</td>
+  <td class=3Dxl71>提问 1-10</td>
+  <td class=3Dxl71>提问 11-20</td>
+  <td class=3Dxl67></td>
+  <td class=3Dxl67></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td rowspan=3D17 height=3D680 class=3Dxl89 style=3D'height:510.0pt'><ruby>=
+<rb>单</rb><span
+  style=3D'display:none'><rt>dan bao</rt></span></ruby>爆<ruby><rb>老</rb>=
+<span
+  style=3D'display:none'><rt>lao da</rt></span></ruby>大<ruby><rb>文</rb><=
+span
+  style=3D'display:none'><rt>wen an</rt></span></ruby>案<ruby><rb>第</rb><=
+span
+  style=3D'display:none'><rt>di yi ban</rt></span></ruby>一版</td>
+  <td rowspan=3D17 class=3Dxl92 width=3D617 style=3D'width:463pt'>老大好=
+，不知道您敢不敢接招。<br>
+  <br>
+=20
+  面向31期同学阿米巴开放日在1月11日举行，据辅导员消息=
+，往期开放日一个频道如果能邀请到100人-120人参加，就是=
+满分封顶。最高一次有过记录200多人。我们这回打算挑战=
+一下老大最喜欢说的10倍数量级，争取完成一个小目标。=
+垄断31期1729中的50%，外加我们29期08团和这次合办的7团、2=
+团、23团、39团，按辅导员要求，随机组合，每5个团一个=
+频道。<br>
+  <br>
+  我们的保守总目标是挑战1000人，挑战目标冲击1200-1500人=
+，没有外援，绝不灌水。我们的门槛是：如果我们能实现=
+这个目标，只想请老大在2018年1月11号周四晚
+  10:00-10:30之间方便的时候，来我们 YY 频道讲几句话。没=
+错只需要3-5分钟，真的是去方便一下的时候都能搞定，就=
+这么简单。<br>
+  不用谢，我们一向都这么体贴～<br>
+  老大您愿意接受我们的挑战邀约吗？<br>
+  <br>
+  原因：<br>
+  1.716有史以来所有团队是一个样，只有我们是另一个样<br=
+>
+  2.这次挑战遵循老大教我们的10倍数量级，和做到极致<br>
+  3.如果我们做到了，这将是716历史上前无古人后无来者的=
+记录。单一子频道人数破千，也是唯一稍微能接近和并为=
+老大亲自答疑的一次讲课<br>
+  4.31期封群，老大也不必担心以后有其他效仿的团队来骚=
+扰。<br>
+  <br>
+  老大，我们知道回避挑战书从来不是你的风格，等你来=
+哦<br>
+  <br>
+  备注：<br>
+=20
+  当然这次请您来我们是绝对保密的，我们不会打着老大=
+的旗号，跟其他团队抢人，那算不正当竞争，也不值得骄=
+傲。万一我们最仰慕、最心爱的老大不敢接招，也免得传=
+出去，有碍颜面嘛<br>
+  <br>
+  是的，我们对老大永远这么体贴<br>
+  <br>
+  此致，<br>
+  盼复</td>
+  <td rowspan=3D17 class=3Dxl84 width=3D168 style=3D'width:126pt'>邀请-变=
+成挑战书-差异化+登门槛-不给他制造麻烦<br>
+  <br>
+  换位思考-站在老大角度-让他舒服<br>
+  <br>
+  数字化-我们做好了充分市调-盯紧了最高记录<br>
+  <br>
+  10倍数量级-学以致用<br>
+  <br>
+  目标细分-保守-最高-落地-拆分-马太效应</td>
+  <td rowspan=3D17 class=3Dxl85 width=3D205 style=3D'width:154pt'>这份话=
+术打磨的很棒，数据化、目标细分、差异化、数量级玩横=
+扫、挑战老大骨子里的狼性、其实上的是利益驱动，加上=
+适当的开玩笑，整个邀请函变为挑战书。老大这号人物小=
+把戏一下子就看破了，最重要的是看到我们学出来了，老=
+大喜欢看到我们的成长、我们的真诚、我们的付出，我们=
+永远奔腾不息的精气神。这份挑战书明显撩拨了老大的兴=
+奋点，以子之矛攻子之盾，拿着你教我们的方法，去回击=
+你，这招数太帅了。</td>
+  <td class=3Dxl74>1.<ruby><rb>这</rb><span style=3D'display:none'><rt>zhe =
+feng x</rt></span></ruby>封信<ruby><rb>是</rb><span
+  style=3D'display:none'><rt>shi</rt></span></ruby><ruby><rb>写</rb><span
+  style=3D'display:none'><rt>xie gei</rt></span></ruby>给<ruby><rb>谁</rb>=
+<span
+  style=3D'display:none'><rt>shui de</rt></span></ruby>的</td>
+  <td class=3Dxl74>11.<ruby><rb>老</rb><span style=3D'display:none'><rt>lao=
+ da</rt></span></ruby>大<ruby><rb>带</rb><span
+  style=3D'display:none'><rt>dai gei wo m</rt></span></ruby>给我们<ruby><=
+rb>什</rb><span
+  style=3D'display:none'><rt>s m</rt></span></ruby>么<ruby><rb>影</rb><spa=
+n
+  style=3D'display:none'><rt>ying xiang</rt></span></ruby>响</td>
+  <td class=3Dxl67></td>
+  <td class=3Dxl67></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 class=3Dxl74 style=3D'height:30.0pt'>2.<ruby><rb>老</rb><=
+span
+  style=3D'display:none'><rt>lao da</rt></span></ruby>大<ruby><rb>有</rb><=
+span
+  style=3D'display:none'><rt>you s m</rt></span></ruby>什么<ruby><rb>性</=
+rb><span
+  style=3D'display:none'><rt>xing ge te z</rt></span></ruby>格特征</td>
+  <td class=3Dxl74>12.<ruby><rb>这</rb><span style=3D'display:none'><rt>zhe=
+ duan hau
+  shu</rt></span></ruby>段话术<ruby><rb>是</rb><span style=3D'display:no=
+ne'><rt>shi</rt></span></ruby><ruby><rb>站</rb><span
+  style=3D'display:none'><rt>zhan zai</rt></span></ruby>在<ruby><rb>谁</rb=
+><span
+  style=3D'display:none'><rt>shui de</rt></span></ruby>的<ruby><rb>角</rb>=
+<span
+  style=3D'display:none'><rt>jiao du shang</rt></span></ruby>度上<ruby><rb=
+>说</rb><span
+  style=3D'display:none'><rt>shuo hua de</rt></span></ruby>话的</td>
+  <td class=3Dxl67></td>
+  <td class=3Dxl67></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 class=3Dxl74 style=3D'height:30.0pt'>3.<ruby><rb>老</rb><=
+span
+  style=3D'display:none'><rt>lao da</rt></span></ruby>大<ruby><rb>的</rb><=
+span
+  style=3D'display:none'><rt>de</rt></span></ruby><ruby><rb>心</rb><span
+  style=3D'display:none'><rt>xin li</rt></span></ruby>理<ruby><rb>怎</rb><=
+span
+  style=3D'display:none'><rt>zen m</rt></span></ruby>么<ruby><rb>想</rb><s=
+pan
+  style=3D'display:none'><rt>xiang de</rt></span></ruby>的</td>
+  <td class=3Dxl74>13.<ruby><rb>是</rb><span style=3D'display:none'><rt>shi=
+ fou</rt></span></ruby>否<ruby><rb>完</rb><span
+  style=3D'display:none'><rt>wan mei</rt></span></ruby>美<ruby><rb>符</rb>=
+<span
+  style=3D'display:none'><rt>fu h</rt></span></ruby>合<ruby><rb>老</rb><sp=
+an
+  style=3D'display:none'><rt>lao da</rt></span></ruby>大<ruby><rb>预</rb><=
+span
+  style=3D'display:none'><rt>yu qi</rt></span></ruby>期</td>
+  <td class=3Dxl67></td>
+  <td class=3Dxl67></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 class=3Dxl74 style=3D'height:30.0pt'>4.<ruby><rb>我</rb><=
+span
+  style=3D'display:none'><rt>wo m</rt></span></ruby>们<ruby><rb>有</rb><sp=
+an
+  style=3D'display:none'><rt>you s m</rt></span></ruby>什么<ruby><rb>优</=
+rb><span
+  style=3D'display:none'><rt>you shi</rt></span></ruby>势</td>
+  <td class=3Dxl74>14.<ruby><rb>我</rb><span style=3D'display:none'><rt>wo =
+m</rt></span></ruby>们<ruby><rb>想</rb><span
+  style=3D'display:none'><rt>xiag gei</rt></span></ruby>给<ruby><rb>老</rb=
+><span
+  style=3D'display:none'><rt>lao da</rt></span></ruby>大<ruby><rb>什</rb><=
+span
+  style=3D'display:none'><rt>s m jing xi</rt></span></ruby>么惊喜？</td>
+  <td class=3Dxl67></td>
+  <td class=3Dxl67></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 class=3Dxl74 style=3D'height:30.0pt'>5.<ruby><rb>我</rb><=
+span
+  style=3D'display:none'><rt>wo m</rt></span></ruby>们<ruby><rb>之</rb><sp=
+an
+  style=3D'display:none'><rt>zhi q</rt></span></ruby>前<ruby><rb>走</rb><s=
+pan
+  style=3D'display:none'><rt>zou guo</rt></span></ruby>过<ruby><rb>什</rb>=
+<span
+  style=3D'display:none'><rt>s m</rt></span></ruby>么<ruby><rb>工</rb><spa=
+n
+  style=3D'display:none'><rt>gong zuo</rt></span></ruby>作</td>
+  <td class=3Dxl74>15.<ruby><rb>能</rb><span style=3D'display:none'><rt>nen=
+g ti lian</rt></span></ruby>提炼<ruby><rb>什</rb><span
+  style=3D'display:none'><rt>s m</rt></span></ruby>么<ruby><rb>关</rb><spa=
+n
+  style=3D'display:none'><rt>guan jian ci</rt></span></ruby>键词</td>
+  <td class=3Dxl67></td>
+  <td class=3Dxl67></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 class=3Dxl74 style=3D'height:30.0pt'>6.<ruby><rb>如</rb><=
+span
+  style=3D'display:none'><rt>ru he</rt></span></ruby>何<ruby><rb>借</rb><s=
+pan
+  style=3D'display:none'><rt>jie li</rt></span></ruby>力</td>
+  <td class=3Dxl74>16.<ruby><rb>登</rb><span style=3D'display:none'><rt>dne=
+g men k</rt></span></ruby>门槛<ruby><rb>怎</rb><span
+  style=3D'display:none'><rt>z m</rt></span></ruby>么<ruby><rb>用</rb><spa=
+n
+  style=3D'display:none'><rt>yong de</rt></span></ruby>的</td>
+  <td class=3Dxl67></td>
+  <td class=3Dxl67></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 class=3Dxl74 style=3D'height:30.0pt'>7.<ruby><rb>之</rb><=
+span
+  style=3D'display:none'><rt>zhi q</rt></span></ruby>前<ruby><rb>都</rb><s=
+pan
+  style=3D'display:none'><rt>dou xue guo</rt></span></ruby>学过<ruby><rb>=
+哪</rb><span
+  style=3D'display:none'><rt>na xie</rt></span></ruby>些<ruby><rb>方</rb><=
+span
+  style=3D'display:none'><rt>fang fa</rt></span></ruby>法</td>
+  <td class=3Dxl74>17.<ruby><rb>如</rb><span style=3D'display:none'><rt>ru =
+he</rt></span></ruby>何<ruby><rb>利</rb><span
+  style=3D'display:none'><rt>li yi qu dong</rt></span></ruby>益驱动<ruby>=
+<rb>老</rb><span
+  style=3D'display:none'><rt>lao da</rt></span></ruby>大</td>
+  <td class=3Dxl67></td>
+  <td class=3Dxl67></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 class=3Dxl74 style=3D'height:30.0pt'>8.<ruby><rb>如</rb><=
+span
+  style=3D'display:none'><rt>ru he</rt></span></ruby>何<ruby><rb>用</rb><s=
+pan
+  style=3D'display:none'><rt>yong shu ju hua</rt></span></ruby>数据<ruby><=
+rb>说</rb><span
+  style=3D'display:none'><rt>shuo hua</rt></span></ruby>话</td>
+  <td class=3Dxl74>18.<ruby><rb>是</rb><span style=3D'display:none'><rt>shi=
+ fou</rt></span></ruby>否想全了<ruby><rb>充</rb><span
+  style=3D'display:none'><rt>chong fen</rt></span></ruby>分<ruby><rb>的</r=
+b><span
+  style=3D'display:none'><rt>de</rt></span></ruby><ruby><rb>方</rb><span
+  style=3D'display:none'><rt>fang an</rt></span></ruby>案？</td>
+  <td class=3Dxl67></td>
+  <td class=3Dxl67></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 class=3Dxl74 style=3D'height:30.0pt'>9.<ruby><rb>历</rb><=
+span
+  style=3D'display:none'><rt>li shi</rt></span></ruby>史<ruby><rb>记</rb><=
+span
+  style=3D'display:none'><rt>ji l</rt></span></ruby>录<ruby><rb>是</rb><sp=
+an
+  style=3D'display:none'><rt>shi duo s</rt></span></ruby>多少</td>
+  <td class=3Dxl74>19.<ruby><rb>我</rb><span style=3D'display:none'><rt>wo =
+m</rt></span></ruby>们<ruby><rb>本</rb><span
+  style=3D'display:none'><rt>ben ci</rt></span></ruby>次<ruby><rb>的</rb><=
+span
+  style=3D'display:none'><rt>de</rt></span></ruby><ruby><rb>小</rb><span
+  style=3D'display:none'><rt>xiao mu b</rt></span></ruby>目标<ruby><rb>是=
+</rb><span
+  style=3D'display:none'><rt>s s m</rt></span></ruby>什么？</td>
+  <td class=3Dxl67></td>
+  <td class=3Dxl67></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 class=3Dxl74 style=3D'height:30.0pt'>10.<ruby><rb>我</rb>=
+<span
+  style=3D'display:none'><rt>wo m</rt></span></ruby>们<ruby><rb>为</rb><sp=
+an
+  style=3D'display:none'><rt>w s m</rt></span></ruby>什么<ruby><rb>想</rb=
+><span
+  style=3D'display:none'><rt>xiang qing</rt></span></ruby>请<ruby><rb>老</=
+rb><span
+  style=3D'display:none'><rt>lao da</rt></span></ruby>大<ruby><rb>出</rb><=
+span
+  style=3D'display:none'><rt>chu shan</rt></span></ruby>山</td>
+  <td class=3Dxl74>20.<ruby><rb>如</rb><span style=3D'display:none'><rt>ru =
+he</rt></span></ruby>何<ruby><rb>实</rb><span
+  style=3D'display:none'><rt>shi xian</rt></span></ruby>现<ruby><rb>的</rb=
+><span
+  style=3D'display:none'><rt>de</rt></span></ruby></td>
+  <td class=3Dxl67></td>
+  <td class=3Dxl67></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 class=3Dxl74 style=3D'height:30.0pt'></td>
+  <td class=3Dxl74></td>
+  <td class=3Dxl67></td>
+  <td class=3Dxl67></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 class=3Dxl77 style=3D'height:30.0pt'></td>
+  <td class=3Dxl77></td>
+  <td class=3Dxl67></td>
+  <td class=3Dxl67></td>
+ </tr>
+ <tr height=3D40 style=3D'page-break-before:always;mso-height-source:userset=
+;
+  height:30.0pt'>
+  <td height=3D40 class=3Dxl71 style=3D'height:30.0pt'></td>
+  <td class=3Dxl71></td>
+  <td class=3Dxl67></td>
+  <td class=3Dxl67></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 class=3Dxl67 style=3D'height:30.0pt'></td>
+  <td class=3Dxl67></td>
+  <td class=3Dxl67></td>
+  <td class=3Dxl67></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 class=3Dxl67 style=3D'height:30.0pt'></td>
+  <td class=3Dxl67></td>
+  <td class=3Dxl67></td>
+  <td class=3Dxl67></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 class=3Dxl67 style=3D'height:30.0pt'></td>
+  <td class=3Dxl67></td>
+  <td class=3Dxl67></td>
+  <td class=3Dxl67></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 class=3Dxl67 style=3D'height:30.0pt'></td>
+  <td class=3Dxl67></td>
+  <td class=3Dxl67></td>
+  <td class=3Dxl67></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 class=3Dxl72 style=3D'height:30.0pt'></td>
+  <td class=3Dxl67></td>
+  <td class=3Dxl67></td>
+  <td class=3Dxl67></td>
+  <td class=3Dxl67></td>
+  <td class=3Dxl67></td>
+  <td class=3Dxl67></td>
+  <td class=3Dxl67></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 class=3Dxl72 style=3D'height:30.0pt'></td>
+  <td class=3Dxl67></td>
+  <td class=3Dxl67></td>
+  <td class=3Dxl67></td>
+  <td class=3Dxl67></td>
+  <td class=3Dxl67></td>
+  <td class=3Dxl67></td>
+  <td class=3Dxl67></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 class=3Dxl72 style=3D'height:30.0pt'></td>
+  <td class=3Dxl67></td>
+  <td class=3Dxl67></td>
+  <td class=3Dxl67></td>
+  <td class=3Dxl67></td>
+  <td class=3Dxl67></td>
+  <td class=3Dxl67></td>
+  <td class=3Dxl67></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 class=3Dxl72 style=3D'height:30.0pt'></td>
+  <td class=3Dxl67></td>
+  <td class=3Dxl67></td>
+  <td class=3Dxl67></td>
+  <td class=3Dxl67></td>
+  <td class=3Dxl67></td>
+  <td class=3Dxl67></td>
+  <td class=3Dxl67></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 class=3Dxl72 style=3D'height:30.0pt'></td>
+  <td class=3Dxl67></td>
+  <td class=3Dxl67></td>
+  <td class=3Dxl67></td>
+  <td class=3Dxl67></td>
+  <td class=3Dxl67></td>
+  <td class=3Dxl67></td>
+  <td class=3Dxl67></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 class=3Dxl72 style=3D'height:30.0pt'></td>
+  <td class=3Dxl67></td>
+  <td class=3Dxl67></td>
+  <td class=3Dxl67></td>
+  <td class=3Dxl67></td>
+  <td class=3Dxl67></td>
+  <td class=3Dxl67></td>
+  <td class=3Dxl67></td>
+ </tr>
+</table>
+
+</body>
+
+</html>
+
+------=_NextPart_01D39709.8DC98350
+Content-Location: file:///C:/2184AD31/file3217.fld/sheet003.htm
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="utf-8"
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml"
+xmlns:o=3D"urn:schemas-microsoft-com:office:office"
+xmlns:x=3D"urn:schemas-microsoft-com:office:excel"
+xmlns=3D"http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=3DContent-Type content=3D"text/html; charset=3Dutf-8">
+<meta name=3DProgId content=3DExcel.Sheet>
+<meta name=3DGenerator content=3D"Microsoft Excel 15">
+<link id=3DMain-File rel=3DMain-File href=3D"../file3217.htm">
+<link rel=3DFile-List href=3Dfilelist.xml>
+<![if IE]>
+<base href=3D"file:////C:/2184AD31/file3217.fld/sheet003.htm"
+id=3D"webarch_temp_base_tag">
+<![endif]>
+<link rel=3DStylesheet href=3Dstylesheet.css>
+<style>
+<!--table
+	{mso-displayed-decimal-separator:"\.";
+	mso-displayed-thousand-separator:"\,";}
+@page
+	{margin:.75in .7in .75in .7in;
+	mso-header-margin:.3in;
+	mso-footer-margin:.3in;}
+ruby
+	{ruby-align:left;}
+rt
+	{color:windowtext;
+	font-size:9.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:-apple-system;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-char-type:none;
+	display:none;}
+-->
+</style>
+<![if !supportTabStrip]><script language=3D"JavaScript">
+<!--
+function fnUpdateTabs()
+ {
+  if (parent.window.g_iIEVer>=3D4) {
+   if (parent.document.readyState=3D=3D"complete"
+    && parent.frames['frTabs'].document.readyState=3D=3D"complete")
+   parent.fnSetActiveSheet(2);
+  else
+   window.setTimeout("fnUpdateTabs();",150);
+ }
+}
+
+if (window.name!=3D"frSheet")
+ window.location.replace("../file3217.htm");
+else
+ fnUpdateTabs();
+//-->
+</script>
+<![endif]>
+</head>
+
+<body link=3D"#0563C1" vlink=3D"#954F72">
+
+<table border=3D0 cellpadding=3D0 cellspacing=3D0 width=3D1350 style=3D'bord=
+er-collapse:
+ collapse;table-layout:fixed;width:1011pt'>
+ <col class=3Dxl67 width=3D67 style=3D'width:50pt'>
+ <col class=3Dxl67 width=3D852 style=3D'mso-width-source:userset;mso-width-a=
+lt:32716;
+ width:639pt'>
+ <col class=3Dxl67 width=3D96 style=3D'mso-width-source:userset;mso-width-al=
+t:3686;
+ width:72pt'>
+ <col width=3D67 span=3D5 style=3D'width:50pt'>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td colspan=3D3 height=3D40 class=3Dxl75 width=3D1015 style=3D'height:30.0=
+pt;
+  width:761pt'>292478-于子津 总结 2018-01-26【连续 349 天总结，=
+倒计时16天】</td>
+  <td class=3Dxl79 width=3D67 style=3D'width:50pt'></td>
+  <td class=3Dxl79 width=3D67 style=3D'width:50pt'></td>
+  <td class=3Dxl79 width=3D67 style=3D'width:50pt'></td>
+  <td class=3Dxl79 width=3D67 style=3D'width:50pt'></td>
+  <td class=3Dxl79 width=3D67 style=3D'width:50pt'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 class=3Dxl76 colspan=3D2 style=3D'height:30.0pt;mso-ignore=
+:colspan'>C、个人小结</td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+  <td class=3Dxl66></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 class=3Dxl78 style=3D'height:30.0pt'>序号</td>
+  <td class=3Dxl78>内容</td>
+  <td class=3Dxl86><ruby><rb>优</rb><span style=3D'display:none'><rt>you xi=
+an ji</rt></span></ruby>先级</td>
+  <td class=3Dxl67></td>
+  <td class=3Dxl67></td>
+  <td class=3Dxl67></td>
+  <td class=3Dxl67></td>
+  <td class=3Dxl67></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 class=3Dxl74 align=3Dright style=3D'height:30.0pt'>1</td>
+  <td class=3Dxl74><ruby><rb>和</rb><span style=3D'display:none'><rt>he</rt=
+></span></ruby><ruby><rb>同</rb><span
+  style=3D'display:none'><rt>tong shi</rt></span></ruby>事<ruby><rb>聊</rb=
+><span
+  style=3D'display:none'><rt>liao t</rt></span></ruby>天<ruby><rb>豁</rb><=
+span
+  style=3D'display:none'><rt>huo ran kai lang</rt></span></ruby>然开朗，=
+<ruby><rb>下</rb><span
+  style=3D'display:none'><rt>xia zhou</rt></span></ruby>周<ruby><rb>工</rb=
+><span
+  style=3D'display:none'><rt>gong zuo</rt></span></ruby>作<ruby><rb>找</rb=
+><span
+  style=3D'display:none'><rt>zhao</rt></span></ruby><ruby><rb>杨</rb><span
+  style=3D'display:none'><rt>yang zong</rt></span></ruby>总<ruby><rb>对</r=
+b><span
+  style=3D'display:none'><rt>dui jie</rt></span></ruby>接</td>
+  <td class=3Dxl74 align=3Dright>1</td>
+  <td colspan=3D5 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 class=3Dxl74 align=3Dright style=3D'height:30.0pt'>2</td>
+  <td class=3Dxl74><ruby><rb>和</rb><span style=3D'display:none'><rt>he</rt=
+></span></ruby><ruby><rb>娜</rb><span
+  style=3D'display:none'><rt>na jie</rt></span></ruby>姐<ruby><rb>深</rb><=
+span
+  style=3D'display:none'><rt>shen ru gou tong</rt></span></ruby>入沟通，=
+<ruby><rb>发</rb><span
+  style=3D'display:none'><rt>fa xian le</rt></span></ruby>现了<ruby><rb>=
+很</rb><span
+  style=3D'display:none'><rt>hen duo</rt></span></ruby>多<ruby><rb>自</rb>=
+<span
+  style=3D'display:none'><rt>zi ji</rt></span></ruby>己<ruby><rb>的</rb><s=
+pan
+  style=3D'display:none'><rt>de</rt></span></ruby><ruby><rb>不</rb><span
+  style=3D'display:none'><rt>bu zu</rt></span></ruby>足</td>
+  <td class=3Dxl74 align=3Dright>4</td>
+  <td colspan=3D5 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 class=3Dxl74 align=3Dright style=3D'height:30.0pt'>3</td>
+  <td class=3Dxl74><ruby><rb>小</rb><span style=3D'display:none'><rt>xiao z=
+u</rt></span></ruby>组<ruby><rb>提</rb><span
+  style=3D'display:none'><rt>ti wen</rt></span></ruby>问，<ruby><rb>自</r=
+b><span
+  style=3D'display:none'><rt>zi j</rt></span></ruby>己<ruby><rb>学</rb><sp=
+an
+  style=3D'display:none'><rt>xue xi ke c</rt></span></ruby>习课程<ruby><r=
+b>上</rb><span
+  style=3D'display:none'><rt>shang</rt></span></ruby><ruby><rb>有</rb><span
+  style=3D'display:none'><rt>you hen duo</rt></span></ruby>很多<ruby><rb>=
+没</rb><span
+  style=3D'display:none'><rt>mei you</rt></span></ruby>有<ruby><rb>理</rb>=
+<span
+  style=3D'display:none'><rt>li j</rt></span></ruby>解<ruby><rb>到</rb><sp=
+an
+  style=3D'display:none'><rt>dao wei</rt></span></ruby>位<ruby><rb>的</rb>=
+<span
+  style=3D'display:none'><rt>de</rt></span></ruby><ruby><rb>地</rb><span
+  style=3D'display:none'><rt>di fang</rt></span></ruby>方</td>
+  <td class=3Dxl74 align=3Dright>2</td>
+  <td colspan=3D5 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 class=3Dxl74 align=3Dright style=3D'height:30.0pt'>4</td>
+  <td class=3Dxl74><ruby><rb>如</rb><span style=3D'display:none'><rt>ru he<=
+/rt></span></ruby>何<ruby><rb>规</rb><span
+  style=3D'display:none'><rt>gui hua</rt></span></ruby>划<ruby><rb>这</rb>=
+<span
+  style=3D'display:none'><rt>zhe bi qian</rt></span></ruby>笔钱</td>
+  <td class=3Dxl74 align=3Dright>3</td>
+  <td colspan=3D5 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 class=3Dxl74 style=3D'height:30.0pt'></td>
+  <td class=3Dxl74></td>
+  <td class=3Dxl74></td>
+  <td colspan=3D5 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 class=3Dxl74 style=3D'height:30.0pt'></td>
+  <td class=3Dxl74></td>
+  <td class=3Dxl74></td>
+  <td colspan=3D5 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 class=3Dxl74 style=3D'height:30.0pt'></td>
+  <td class=3Dxl74></td>
+  <td class=3Dxl74></td>
+  <td colspan=3D5 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 class=3Dxl74 style=3D'height:30.0pt'></td>
+  <td class=3Dxl74></td>
+  <td class=3Dxl74></td>
+  <td colspan=3D5 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 class=3Dxl74 style=3D'height:30.0pt'></td>
+  <td class=3Dxl74></td>
+  <td class=3Dxl74></td>
+  <td colspan=3D5 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 class=3Dxl74 style=3D'height:30.0pt'></td>
+  <td class=3Dxl74></td>
+  <td class=3Dxl74></td>
+  <td colspan=3D5 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 class=3Dxl74 style=3D'height:30.0pt'></td>
+  <td class=3Dxl74></td>
+  <td class=3Dxl74></td>
+  <td colspan=3D5 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 class=3Dxl74 style=3D'height:30.0pt'></td>
+  <td class=3Dxl74></td>
+  <td class=3Dxl67></td>
+  <td colspan=3D5 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 class=3Dxl74 style=3D'height:30.0pt'></td>
+  <td class=3Dxl74></td>
+  <td class=3Dxl67></td>
+  <td colspan=3D5 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 class=3Dxl74 style=3D'height:30.0pt'></td>
+  <td class=3Dxl74></td>
+  <td class=3Dxl67></td>
+  <td colspan=3D5 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 class=3Dxl74 style=3D'height:30.0pt'></td>
+  <td class=3Dxl74></td>
+  <td class=3Dxl67></td>
+  <td colspan=3D5 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 class=3Dxl74 style=3D'height:30.0pt'></td>
+  <td class=3Dxl74></td>
+  <td class=3Dxl67></td>
+  <td colspan=3D5 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 class=3Dxl74 style=3D'height:30.0pt'></td>
+  <td class=3Dxl74></td>
+  <td class=3Dxl67></td>
+  <td colspan=3D5 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 class=3Dxl74 style=3D'height:30.0pt'></td>
+  <td class=3Dxl74></td>
+  <td class=3Dxl67></td>
+  <td colspan=3D5 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 class=3Dxl74 style=3D'height:30.0pt'></td>
+  <td class=3Dxl74></td>
+  <td class=3Dxl67></td>
+  <td colspan=3D5 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 class=3Dxl74 style=3D'height:30.0pt'></td>
+  <td class=3Dxl74></td>
+  <td class=3Dxl67></td>
+  <td colspan=3D5 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 class=3Dxl74 style=3D'height:30.0pt'></td>
+  <td class=3Dxl74></td>
+  <td class=3Dxl67></td>
+  <td colspan=3D5 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'page-break-before:always;mso-height-source:userset=
+;
+  height:30.0pt'>
+  <td height=3D40 class=3Dxl74 style=3D'height:30.0pt'></td>
+  <td class=3Dxl74></td>
+  <td class=3Dxl67></td>
+  <td colspan=3D5 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 class=3Dxl74 style=3D'height:30.0pt'></td>
+  <td class=3Dxl74></td>
+  <td class=3Dxl67></td>
+  <td colspan=3D5 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 class=3Dxl74 style=3D'height:30.0pt'></td>
+  <td class=3Dxl74></td>
+  <td class=3Dxl67></td>
+  <td colspan=3D5 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 class=3Dxl74 style=3D'height:30.0pt'></td>
+  <td class=3Dxl74></td>
+  <td class=3Dxl67></td>
+  <td colspan=3D5 style=3D'mso-ignore:colspan'></td>
+ </tr>
+</table>
+
+</body>
+
+</html>
+
+------=_NextPart_01D39709.8DC98350
+Content-Location: file:///C:/2184AD31/file3217.fld/sheet004.htm
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="utf-8"
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml"
+xmlns:o=3D"urn:schemas-microsoft-com:office:office"
+xmlns:x=3D"urn:schemas-microsoft-com:office:excel"
+xmlns=3D"http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=3DContent-Type content=3D"text/html; charset=3Dutf-8">
+<meta name=3DProgId content=3DExcel.Sheet>
+<meta name=3DGenerator content=3D"Microsoft Excel 15">
+<link id=3DMain-File rel=3DMain-File href=3D"../file3217.htm">
+<link rel=3DFile-List href=3Dfilelist.xml>
+<![if IE]>
+<base href=3D"file:////C:/2184AD31/file3217.fld/sheet004.htm"
+id=3D"webarch_temp_base_tag">
+<![endif]>
+<link rel=3DStylesheet href=3Dstylesheet.css>
+<style>
+<!--table
+	{mso-displayed-decimal-separator:"\.";
+	mso-displayed-thousand-separator:"\,";}
+@page
+	{margin:.75in .7in .75in .7in;
+	mso-header-margin:.3in;
+	mso-footer-margin:.3in;}
+ruby
+	{ruby-align:left;}
+rt
+	{color:windowtext;
+	font-size:9.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:-apple-system;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-char-type:none;
+	display:none;}
+-->
+</style>
+<![if !supportTabStrip]><script language=3D"JavaScript">
+<!--
+function fnUpdateTabs()
+ {
+  if (parent.window.g_iIEVer>=3D4) {
+   if (parent.document.readyState=3D=3D"complete"
+    && parent.frames['frTabs'].document.readyState=3D=3D"complete")
+   parent.fnSetActiveSheet(3);
+  else
+   window.setTimeout("fnUpdateTabs();",150);
+ }
+}
+
+if (window.name!=3D"frSheet")
+ window.location.replace("../file3217.htm");
+else
+ fnUpdateTabs();
+//-->
+</script>
+<![endif]>
+</head>
+
+<body link=3D"#0563C1" vlink=3D"#954F72" class=3Dxl67>
+
+<table border=3D0 cellpadding=3D0 cellspacing=3D0 width=3D1034 style=3D'bord=
+er-collapse:
+ collapse;table-layout:fixed;width:774pt'>
+ <col class=3Dxl67 width=3D79 style=3D'mso-width-source:userset;mso-width-al=
+t:3020;
+ width:59pt'>
+ <col class=3Dxl67 width=3D203 style=3D'mso-width-source:userset;mso-width-a=
+lt:7782;
+ width:152pt'>
+ <col class=3Dxl67 width=3D175 style=3D'mso-width-source:userset;mso-width-a=
+lt:6707;
+ width:131pt'>
+ <col class=3Dxl67 width=3D183 style=3D'mso-width-source:userset;mso-width-a=
+lt:7014;
+ width:137pt'>
+ <col class=3Dxl67 width=3D193 style=3D'mso-width-source:userset;mso-width-a=
+lt:7424;
+ width:145pt'>
+ <col class=3Dxl67 width=3D67 span=3D3 style=3D'width:50pt'>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td colspan=3D5 height=3D40 class=3Dxl75 width=3D833 style=3D'height:30.0p=
+t;width:624pt'>292478-于子津
+  总结 2018-01-26【连续 349 天总结，倒计时16天】</td>
+  <td class=3Dxl69 width=3D67 style=3D'width:50pt'></td>
+  <td class=3Dxl69 width=3D67 style=3D'width:50pt'></td>
+  <td class=3Dxl69 width=3D67 style=3D'width:50pt'></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td colspan=3D5 height=3D40 class=3Dxl76 style=3D'height:30.0pt'>D、明=
+日计划目标</td>
+  <td class=3Dxl67></td>
+  <td class=3Dxl67></td>
+  <td class=3Dxl67></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 class=3Dxl71 style=3D'height:30.0pt'>序号</td>
+  <td class=3Dxl71>项目</td>
+  <td class=3Dxl71>量化</td>
+  <td class=3Dxl71>总目标</td>
+  <td class=3Dxl71>总进度</td>
+  <td class=3Dxl67></td>
+  <td class=3Dxl67></td>
+  <td class=3Dxl67></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 class=3Dxl72 style=3D'height:30.0pt'>1</td>
+  <td class=3Dxl69>keep</td>
+  <td class=3Dxl87>6:00-7:00</td>
+  <td class=3Dxl74>100<ruby><rb>天</rb><span style=3D'display:none'><rt>tia=
+n</rt></span></ruby></td>
+  <td class=3Dxl74>18/100 =3D 18%</td>
+  <td class=3Dxl67></td>
+  <td class=3Dxl67></td>
+  <td class=3Dxl67></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 class=3Dxl72 style=3D'height:30.0pt'>2</td>
+  <td class=3Dxl69>公众号文章</td>
+  <td class=3Dxl73>7:00-8:00</td>
+  <td class=3Dxl74>30<ruby><rb>篇</rb><span style=3D'display:none'><rt>pian=
+</rt></span></ruby></td>
+  <td class=3Dxl74>18/30 =3D 60%</td>
+  <td class=3Dxl67></td>
+  <td class=3Dxl67></td>
+  <td class=3Dxl67></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 class=3Dxl72 style=3D'height:30.0pt'>3</td>
+  <td class=3Dxl69>背诵人情做透四招</td>
+  <td class=3Dxl73>10:00-10:20</td>
+  <td class=3Dxl74>100<ruby><rb>天</rb><span style=3D'display:none'><rt>tia=
+n</rt></span></ruby></td>
+  <td class=3Dxl74>5/100 =3D 5%</td>
+  <td class=3Dxl67></td>
+  <td class=3Dxl67></td>
+  <td class=3Dxl67></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 class=3Dxl72 style=3D'height:30.0pt'>4</td>
+  <td class=3Dxl69>跑步3公里</td>
+  <td class=3Dxl73>8:00-8:30</td>
+  <td class=3Dxl74>500km</td>
+  <td class=3Dxl74>356/500 =3D 71.2%</td>
+  <td class=3Dxl67></td>
+  <td class=3Dxl67></td>
+  <td class=3Dxl67></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 class=3Dxl72 style=3D'height:30.0pt'>5</td>
+  <td class=3Dxl69>流利说</td>
+  <td class=3Dxl73>12:00-1:00</td>
+  <td class=3Dxl74>Level4-Unit 2-80star</td>
+  <td class=3Dxl74>17/80 =3D 15%</td>
+  <td class=3Dxl67></td>
+  <td class=3Dxl67></td>
+  <td class=3Dxl67></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 class=3Dxl72 style=3D'height:30.0pt'>6</td>
+  <td class=3Dxl69>抄写概念</td>
+  <td class=3Dxl73>3:00-3:30</td>
+  <td class=3Dxl74>365day</td>
+  <td class=3Dxl74>349/365 =3D 95.6%</td>
+  <td class=3Dxl67></td>
+  <td class=3Dxl67></td>
+  <td class=3Dxl67></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 class=3Dxl72 style=3D'height:30.0pt'>7</td>
+  <td class=3Dxl69>基金课程学习</td>
+  <td class=3Dxl73>8:00-9:00</td>
+  <td class=3Dxl74>15day</td>
+  <td class=3Dxl74>5/15 =3D33.3%</td>
+  <td class=3Dxl67></td>
+  <td class=3Dxl67></td>
+  <td class=3Dxl67></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 class=3Dxl72 style=3D'height:30.0pt'>8</td>
+  <td class=3Dxl69>给班级同学写信</td>
+  <td class=3Dxl73>11:30-12:00</td>
+  <td class=3Dxl74>50<ruby><rb>封</rb><span style=3D'display:none'><rt>feng=
+</rt></span></ruby></td>
+  <td class=3Dxl74>33/50 =3D 65%</td>
+  <td class=3Dxl67></td>
+  <td class=3Dxl67></td>
+  <td class=3Dxl67></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 class=3Dxl72 style=3D'height:30.0pt'>9</td>
+  <td class=3Dxl69>市调消费者心理</td>
+  <td class=3Dxl73>9:00-10:00</td>
+  <td class=3Dxl74>45<ruby><rb>人</rb><span style=3D'display:none'><rt>ren<=
+/rt></span></ruby></td>
+  <td class=3Dxl74>2/45 =3D 5%</td>
+  <td class=3Dxl67></td>
+  <td class=3Dxl67></td>
+  <td class=3Dxl67></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 class=3Dxl72 style=3D'height:30.0pt'>10</td>
+  <td class=3Dxl69>准备工作报告</td>
+  <td class=3Dxl73>9:00-10:00</td>
+  <td class=3Dxl74>-</td>
+  <td class=3Dxl74>-</td>
+  <td class=3Dxl67></td>
+  <td class=3Dxl67></td>
+  <td class=3Dxl67></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 class=3Dxl72 style=3D'height:30.0pt'>11</td>
+  <td class=3Dxl69>和点评学弟沟通</td>
+  <td class=3Dxl73>6:30-7:00</td>
+  <td class=3Dxl74>1<ruby><rb>人</rb><span style=3D'display:none'><rt>ren</=
+rt></span></ruby></td>
+  <td class=3Dxl74>-</td>
+  <td class=3Dxl67></td>
+  <td class=3Dxl67></td>
+  <td class=3Dxl67></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 class=3Dxl72 style=3D'height:30.0pt'>12</td>
+  <td class=3Dxl69>和其他团巨头沟通</td>
+  <td class=3Dxl73>9:00-10:00</td>
+  <td class=3Dxl74>-</td>
+  <td class=3Dxl74>-</td>
+  <td class=3Dxl67></td>
+  <td class=3Dxl67></td>
+  <td class=3Dxl67></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 class=3Dxl78 style=3D'height:30.0pt'>补充</td>
+  <td class=3Dxl67></td>
+  <td class=3Dxl74></td>
+  <td class=3Dxl74></td>
+  <td class=3Dxl74></td>
+  <td class=3Dxl67></td>
+  <td class=3Dxl67></td>
+  <td class=3Dxl67></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 class=3Dxl73 align=3Dright style=3D'height:30.0pt'>1</td>
+  <td class=3Dxl73>整理保险课程内容</td>
+  <td class=3Dxl74></td>
+  <td class=3Dxl74></td>
+  <td class=3Dxl74></td>
+  <td class=3Dxl67></td>
+  <td class=3Dxl67></td>
+  <td class=3Dxl67></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 class=3Dxl73 align=3Dright style=3D'height:30.0pt'>2</td>
+  <td class=3Dxl73>《伟大的博弈》</td>
+  <td class=3Dxl74></td>
+  <td class=3Dxl74></td>
+  <td class=3Dxl74></td>
+  <td class=3Dxl67></td>
+  <td class=3Dxl67></td>
+  <td class=3Dxl67></td>
+ </tr>
+ <tr height=3D40 style=3D'mso-height-source:userset;height:30.0pt'>
+  <td height=3D40 class=3Dxl73 align=3Dright style=3D'height:30.0pt'>3</td>
+  <td class=3Dxl73>配置保险组合</td>
+  <td class=3Dxl74></td>
+  <td class=3Dxl74></td>
+  <td class=3Dxl74></td>
+  <td class=3Dxl67></td>
+  <td class=3Dxl67></td>
+  <td class=3Dxl67></td>
+ </tr>
+</table>
+
+</body>
+
+</html>
+
+------=_NextPart_01D39709.8DC98350
+Content-Location: file:///C:/2184AD31/file3217.fld/filelist.xml
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/xml; charset="utf-8"
+
+<xml xmlns:o=3D"urn:schemas-microsoft-com:office:office">
+ <o:MainFile HRef=3D"../file3217.htm"/>
+ <o:File HRef=3D"stylesheet.css"/>
+ <o:File HRef=3D"tabstrip.htm"/>
+ <o:File HRef=3D"sheet001.htm"/>
+ <o:File HRef=3D"sheet002.htm"/>
+ <o:File HRef=3D"sheet003.htm"/>
+ <o:File HRef=3D"sheet004.htm"/>
+ <o:File HRef=3D"filelist.xml"/>
+</xml>
+------=_NextPart_01D39709.8DC98350--
